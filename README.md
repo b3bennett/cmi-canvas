@@ -1,3 +1,3 @@
 cmi-canvas
 ==========
-Python scripts for pulling learning outcomes data from CMI and pushing it to Canvas via Instructure's API
+Python scripts for pushing learning outcomes to Instructure Canvas via the API
